@@ -1,0 +1,72 @@
+@font-face {
+  font-family: lato;
+  src: url("/Lato-Bold.ttf");
+}
+@font-face {
+  font-family: latoLight;
+  src: url(/Lato-Light.ttf);
+}
+
+#main {
+  background-color: #eeeeee;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+#title h2 {
+  text-align: center;
+  font-family: lato;
+  font-size: 40px;
+}
+#title p {
+  text-align: center;
+  font-family: latoLight;
+}
+#title {
+  border-radius: 10px;
+  padding-top: 20px;
+
+  margin-top: 25px;
+}
+
+#img-div {
+  background-color: white;
+  text-align: center;
+  padding: 50px;
+  background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 2px;
+}
+#img-caption {
+  font-family: latoLight;
+}
+#tribute-info h3 {
+  text-align: center;
+  padding: 30px;
+}
+#tribute-info ul {
+  margin-left: 500px;
+  margin-right: 500px;
+  font-family: latoLight;
+}
+#quote {
+  margin-left: 520px;
+  margin-right: 500px;
+}
+
+#em2 {
+  margin-left: 520px;
+  margin-right: 500px;
+}
+
+#Plink {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 17px;
+}
+#tribute-link {
+  color: #9083a5;
+  font-family: latoLight;
+  font-weight: bold;
+}
